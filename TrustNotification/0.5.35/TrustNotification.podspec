@@ -30,7 +30,7 @@ s.dependency 'AlamofireObjectMapper'
 
 s.source_files = "TrustNotification/**/*.{swift}"
 
-s.resources = "TrustNotification/**/*.{storyboard,xib}"
+s.resources = "TrustNotification/**/*.{storyboard,xib,ttf}"
 
 s.swift_version = "4.2"
 
