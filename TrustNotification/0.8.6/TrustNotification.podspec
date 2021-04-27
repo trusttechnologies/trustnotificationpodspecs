@@ -4,10 +4,10 @@ Pod::Spec.new do |s|
    s.version			= "0.8.6"
    s.summary 			= "This library is responsable of creating custom notification"
 
-   s.homepage 			= "https://gitlab.com/trustchile/movil/lat_trust_mobile_ios_trust-notification_library"
+   s.homepage 			= "https://gitlab.com/trustchile/movil-libs/lat_trust_mobile_ios_trust-notification_library"
    s.license 			= { :type => "MIT", :file => "LICENSE" }
    s.author 			= { "Jesenia Salazar" => "jsalazar@jumpitt.com" }
-   s.source			= { :git => "https://gitlab.com/trustchile/movil/lat_trust_mobile_ios_trust-notification_library.git", :tag => "#{s.version}" }
+   s.source			= { :git => "https://gitlab.com/trustchile/movil-libs/lat_trust_mobile_ios_trust-notification_library.git", :tag => "#{s.version}" }
 
    s.platform 			= :ios
    s.swift_version 		= "4.2"
